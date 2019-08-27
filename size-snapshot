@@ -1,0 +1,82 @@
+{
+  "@material-ui/core": {
+    "parsed": 329524,
+    "gzip": 90000
+  },
+  "@material-ui/core/Paper": {
+    "parsed": 68774,
+    "gzip": 20487
+  },
+  "@material-ui/core/Paper.esm": {
+    "parsed": 62148,
+    "gzip": 19215
+  },
+  "@material-ui/core/Popper": {
+    "parsed": 28468,
+    "gzip": 10177
+  },
+  "@material-ui/core/Textarea": {
+    "parsed": 5094,
+    "gzip": 2137
+  },
+  "@material-ui/core/TrapFocus": {
+    "parsed": 3834,
+    "gzip": 1614
+  },
+  "@material-ui/core/styles/createMuiTheme": {
+    "parsed": 16386,
+    "gzip": 5827
+  },
+  "@material-ui/core/useMediaQuery": {
+    "parsed": 2541,
+    "gzip": 1058
+  },
+  "@material-ui/lab": {
+    "parsed": 153304,
+    "gzip": 46710
+  },
+  "@material-ui/styles": {
+    "parsed": 51492,
+    "gzip": 15305
+  },
+  "@material-ui/system": {
+    "parsed": 15658,
+    "gzip": 4371
+  },
+  "Button": {
+    "parsed": 78778,
+    "gzip": 24073
+  },
+  "Modal": {
+    "parsed": 14346,
+    "gzip": 5009
+  },
+  "Portal": {
+    "parsed": 2907,
+    "gzip": 1319
+  },
+  "Rating": {
+    "parsed": 70245,
+    "gzip": 21942
+  },
+  "Slider": {
+    "parsed": 74483,
+    "gzip": 23065
+  },
+  "colorManipulator": {
+    "parsed": 3904,
+    "gzip": 1543
+  },
+  "docs.landing": {
+    "parsed": 52305,
+    "gzip": 13790
+  },
+  "docs.main": {
+    "parsed": 597298,
+    "gzip": 190849
+  },
+  "packages/material-ui/build/umd/material-ui.production.min.js": {
+    "parsed": 300429,
+    "gzip": 86412
+  }
+}
